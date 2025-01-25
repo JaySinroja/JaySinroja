@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaySinroja
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning BSC IT
+- 👀 I’m interested in web development, cybersecurity, programming and design.
+- 🌱 I’m currently pursuing BSC IT
 
 
 <!---
